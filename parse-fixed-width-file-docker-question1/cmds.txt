@@ -1,0 +1,23 @@
+---To run through docker ---
+
+1.Install docker-desktop
+2.docker build -t main .
+3.docker run -p 5000:5000 main
+4.open docker container
+5.view/browse file
+6.open output folder
+7.download csv file
+
+
+---To run in local ---
+
+1.Open terminal
+2.cd app
+3.python app.py
+
+
+-- To run test cases --
+
+1. Open terminal 
+2. cd app
+3. python test_parser.py
